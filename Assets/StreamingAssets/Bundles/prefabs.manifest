@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4042591739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2342e341a311aea64782a2a381fa6ed8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e6f46b29e0eacadf485d6c4d1ed28cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f60fefa8b02b4a9986e241311db8a1ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 778a5792af894678a52ef9c6331533d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea69a9c7c2a84411b85c0c9a140dcb3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Objects/BombBehaviour.prefab
+- Assets/Prefabs/Objects/PlayerBehaviour.prefab
+Dependencies: []
